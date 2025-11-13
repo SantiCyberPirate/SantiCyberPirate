@@ -1,16 +1,14 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/sean-santiago-x86/">Sean Santiago</a>'s Cybersecurity Project Contributor Account 🔐
 
-<!--
-**SantiCyberPirate/SantiCyberPirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity specialist with a particular passion for enhancing efficiency through analytical thought and automation projects. From vulnerability management to threat detection to vigilant preparation through penetration testing, I feel it is paramount in the industry that there be both secure operations being performed and efficient execution of those operations. Please feel free to check out my projects to see the work I’ve put into enhancing security operations and processes!
 
-Here are some ideas to get you started:
+This is my 'contributor' GitHub account that I created to practice both repo owner and contributor roles - **[SantiagoX86](https://github.com/SantiagoX86)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect With Me
+
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sean-santiago-x86/
+
